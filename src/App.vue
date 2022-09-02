@@ -1,11 +1,11 @@
 <template>
     <div>
-        <kityformulaVue />
+        <ueditor />
     </div>
 </template>
 
 <script setup lang="ts">
-import kityformulaVue from './components/kityformula.vue';
+import ueditor from './components/ueditor.vue';
 </script>
 
 <style scoped>
